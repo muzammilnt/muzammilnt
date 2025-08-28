@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- [Anki-Flashcard-Generator](https://github.com/) – A Python Tkinter app that fetches word definitions and creates Anki flashcards.
+- [Anki-Flashcard-Generator](https://github.com/muzammilnt/Anki-Flashcard-Generator) – A Python Tkinter app that fetches word definitions and creates Anki flashcards.
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [a](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
