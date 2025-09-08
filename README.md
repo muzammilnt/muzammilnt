@@ -5,11 +5,6 @@
 - [Anki-Flashcard-Generator](https://github.com/muzammilnt/Anki-Flashcard-Generator) – A Python Tkinter app that fetches word definitions and creates Anki flashcards.
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<!--
 
 
 Here are some ideas to get you started:
